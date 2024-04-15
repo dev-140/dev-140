@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="dev-140" width="200" />
+  <img align="center" src="https://img.freepik.com/free-vector/cute-astronaut-working-laptop-cartoon-vector-icon-illustration-science-technology-icon-isolated_138676-4634.jpg" alt="dev-140" width="200" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rox</h1>
