@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://t3.ftcdn.net/jpg/02/24/86/92/360_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd.jpg" alt="dev-140" width="500" />
+  <img align="center" src="https://cdn.vectorstock.com/i/500p/08/82/software-developer-character-programmer-vector-26310882.jpg" alt="dev-140" width="700" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rox</h1>
