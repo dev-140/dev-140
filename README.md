@@ -64,8 +64,12 @@
     </a>
 </div>
 
-
-
 <h2 align="center" style="margin-top: 10px;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-140&" alt="dev-140" />
 </h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-140/dev-140/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-140/dev-140/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dev-140/dev-140/output/github-snake.svg" />
+</picture>
