@@ -4,9 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Rox</h1>
 
-
-- 🌱 I’m currently learning **React JS**
-
 - 📫 How to reach me **roxmarzan14@gmail.com**
 <p align="left">
 </p>
